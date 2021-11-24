@@ -19,7 +19,8 @@ using System;
 						Console.WriteLine(score);
 					} else
 					{
-						Console.WriteLine("Invalid Command");
+						Console.WriteLine("Invalid Command, Please Try Again");
+
 					}
 				}
 			}
